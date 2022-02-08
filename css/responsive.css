@@ -1,0 +1,18 @@
+@media screen and (max-width:1000px) {
+    nav{
+        flex-direction: column;
+    }
+    .logo img{
+        margin: 2vh 0px;
+    }
+    .card-item{
+        width:112px;
+        
+    }
+    .cards{
+        overflow:scroll;
+    }
+    ul{
+        height: 6vh;
+    }
+}
